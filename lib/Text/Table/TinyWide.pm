@@ -143,6 +143,9 @@ L<Text::Table::Tiny>
 
 L<Text::Table::TinyColor> for table with colored text support.
 
+L<Text::Table::TinyColorWide> for table with colored text and wide character
+support.
+
 L<Text::Table::Any>
 
 L<Text::ANSITable> for more formatting options and colored text support, but
